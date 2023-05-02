@@ -1,0 +1,23 @@
+.searchDiv {
+    border: 1px solid #f3f5f9;
+    color: white;
+    padding: 40px;
+    font-family: Arial;
+    text-align: center;
+}
+
+.searchInput {
+    background-color: #ffffff;
+    color: #031b4e;
+    
+}
+
+.searchInput:hover {
+    background-color: grey;
+}
+
+.searchBtn {
+    background-color: #0069ff;
+    color: white;
+    border: 1px solid white;
+}
